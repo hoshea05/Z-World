@@ -4,7 +4,7 @@
 - Any user accessed can feel free to post messages, like, reply, and delete—all on one page.
 - This system does not have a database, which means any edits on the page cannot be stored after refreshing the web.
 
-🔗 **Live site:** [Z-World on GitHub Pages](https://hosheapage.github.io/Z-World/)
+🔗 **Live site:** [Z-World on GitHub Pages](hoshea05.github.io/z-world/)
 
 ## 📁 Folder Structure
 This web app uses a very classic and basic file structure.
